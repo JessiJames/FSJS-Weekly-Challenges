@@ -1,4 +1,4 @@
-Try and do all of the following:
+Try and do all of the following: 
 
 Prompt the user for input and store that into a variable
 Pass that value into a function
